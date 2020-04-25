@@ -1,0 +1,6 @@
+# Python Package Requirements
+asyncio
+aiohttp
+argparse
+bs4
+progressbar2
