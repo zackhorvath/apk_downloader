@@ -1,0 +1,4 @@
+# Ignore Stuff
+.python-version
+apks/
+lib/__pycache__
